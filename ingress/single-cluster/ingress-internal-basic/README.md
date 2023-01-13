@@ -68,7 +68,7 @@ spec:
 $ git clone https://github.com/GoogleCloudPlatform/gke-networking-recipes.git
 Cloning into 'gke-networking-recipes'...
 
-$ cd gke-networking-recipes/ingress/internal-ingress-basic
+$ cd gke-networking-recipes/ingress/single-cluster/ingress-internal-basic
 ```
 
 2. Deploy the Ingress, Deployment, and Service resources in the [internal-ingress-basic.yaml](internal-ingress-basic.yaml) manifest.
